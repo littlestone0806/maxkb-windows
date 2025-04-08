@@ -175,7 +175,6 @@ cython_debug/
 #.idea/
 ui/package-lock.json
 ui/node_modules
-ui/dist
 apps/static
 models/
 apps/xpack
